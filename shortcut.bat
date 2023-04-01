@@ -1,0 +1,1 @@
+copy "C:\Program Files (x86)\EnterSafe\ePass2003\ePassManager_2003.exe" %UserProfile%\Desktop
